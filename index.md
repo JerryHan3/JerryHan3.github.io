@@ -3,5 +3,4 @@
 
 想找点与我有关的项目？下面的链接可以帮到你！
 
-[JerryLine](https://github.com/JerryHan3/JerryLine_Release) | [点名器](https://github.com/JerryHan3/Name-Selector) | [Cytoid相关](https://cytoid.cn/profile/jerryhan3)
------------- | ------------------ | -------------------
+[JerryLine](https://github.com/JerryHan3/JerryLine_Release)   [点名器](https://github.com/JerryHan3/Name-Selector)   [Cytoid相关](https://cytoid.cn/profile/jerryhan3)
