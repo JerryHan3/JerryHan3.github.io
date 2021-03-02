@@ -1,3 +1,7 @@
+---
+permalink: /passagelist/
+title: 文章列表
+---
 # 文章列表
 我发现的一些计算机技巧都会在这里列出来！
 
