@@ -1,5 +1,4 @@
 ---
-title:娱乐相关
 permalink: /games/
 ---
 
