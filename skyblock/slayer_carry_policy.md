@@ -9,7 +9,9 @@
     2. or a full refund for 1 carry
 4. If the slayer quest fails due to unexpected incident (such as sudden server lag, hypixel internal connection error, etc.), I will refund half of the cost for that single carry, but **that is still counted as a carry**. Exception include:
     - Scheduled server restart: progress is kept and you can summon it with 1 mob kill. 
-6. Only in-game coins is accepted as carry fee. Any other method, including item gifting, premium giveaway, IRL trading is not accepted. Any attempt to break Skyblock rules will lead to immediate carry terminate and boosting report.
+5. Only in-game coins is accepted as carry fee. Any other method, including item gifting, premium giveaway, IRL trading is not accepted. Any attempt to break Skyblock rules will lead to immediate carry terminate and boosting report.
+6. You acknowledge and agree that all transaction activities and carry processes will be recorded via screen capture for evidence, and will be deleted within 3 days after the transaction is completed.
+7. During free carries, rule 1~5 is invalid.
 
 ## Carry Prices
 
@@ -20,9 +22,9 @@
 | Zombie T5 | 240k | 200k |  |
 | Spider T4 | 100k | 90k |  |
 | Wolf T4 | 120k | 100k |  |
-| Enderman T1 | 0 | 0 | Only for unlock T2/Bingo profile combat exp carry |
-| Enderman T2 | 60k | 50k | Free if aim to unlock T3 |
-| Enderman T3 | 240k | 200k | Free if aim to unlock T4 |
+| Enderman T1 | 0 | 0 | Only for unlock T2 |
+| Enderman T2 | 60k | 50k | Free for unlock T3 |
+| Enderman T3 | 240k | 200k | Free for unlock T4/Bingo profile combat exp carry |
 | Enderman T4 | 1.2M | 1M |  |
 | Blaze & Vampire | ❌ | ❌ |  |
 
