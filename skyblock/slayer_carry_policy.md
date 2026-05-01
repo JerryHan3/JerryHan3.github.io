@@ -13,7 +13,7 @@
 
 ## Carry Prices
 
-| Boss | Single Price ($\le 4$) | Bulk Price ($\ge 5$) | Notes |
+| Boss | Single Price (≤4) | Bulk Price (≥5) | Notes |
 | --- | --- | --- | --- |
 | Zombie/Spider/Wolf T1~T3 | 0 | 0 | Only for unlock T4/Bingo profile |
 | Zombie T4 | 96k | 80k |  |
@@ -38,5 +38,5 @@ You shall pay the slayer quest fee due within **3 days** after the first carry i
     - In-game report as scamming
     - Scammer report towards SkyblockSimplified, SkyblockZ, and other available skyblock communities
 
-> [!CAUTION]
-**Do not try to test my trust in you.** I will not tolerate any form of fraud or betrayal.
+> ‼️**Do not try to test my trust in you.**  
+> I will not tolerate any form of fraud or betrayal.
