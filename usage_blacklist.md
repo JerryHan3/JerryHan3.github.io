@@ -6,4 +6,4 @@ The following individuals / organizations are not allowed to use any of my works
 All records have their corresponding written declarations attached for reference.  
 所有记录均附有对应的书面声明，以供参考。
 
-- [darkblue114514（深蓝）]() <sup>[[声明]](https://jerryhan3.github.io/announcement/20260902-authorization-withdraw)</sup>
+- [darkblue114514（深蓝）](https://github.com/darkblue114514) <sup>[[声明]](https://jerryhan3.github.io/announcement/20260902-authorization-withdraw)</sup>
